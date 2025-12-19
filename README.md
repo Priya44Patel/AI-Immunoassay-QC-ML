@@ -1,5 +1,6 @@
-🧪 AI-Driven Immunoassay Quality Control
-📌 Project Overview
+AI-Driven Immunoassay Quality Control
+
+Project Overview
 
 This project demonstrates an end-to-end AI pipeline for quality control of immunoassay (ELISA-like) data, combining:
 
@@ -8,7 +9,7 @@ Curve fitting (4PL models)
 Quality control metrics
 Machine learning classification
 
-🚀 Key Features
+Key Features
 
 Automated plate data cleaning
 Standard curve fitting & interpolation
@@ -17,11 +18,16 @@ ML model to flag failed samples
 Publication-ready visualizations
 
 Project Structure
+
 AI-Immunoassay-QC-ML/
-├── data/              # raw and processed assay data
-├── notebooks/         # step-by-step analysis
-├── src/               # reusable Python modules
-├── results/           # figures and reports
+
+├── data/                                       # raw and processed assay data
+
+├── notebooks/                                  # step-by-step analysis
+
+├── src/                                        # reusable Python modules
+
+├── results/                                    # figures and reports
 
 🛠️ Technologies Used
 
@@ -31,7 +37,7 @@ Scikit-learn (ML)
 Matplotlib, Seaborn
 Jupyter, VS Code
 
-📊 Use Case
+Use Case
 
 Designed for:
 
